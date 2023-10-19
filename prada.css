@@ -20,7 +20,7 @@
         
     }
 body{
-    background-color: blue;
+    background-color: #FFFFFF;
     justify-content: center;
 }
 }
@@ -52,16 +52,20 @@ body{
 
 .autunno_inverno{
     color: #FFFFFF;
-    font-size: 20px;
+    font-size: 25px;
     z-index: 100;
     position: absolute;
+    flex-direction: row;
+    padding: 1%;
 }
 
 .borse_donna{
     position: absolute;
     color: #FFFFFF;
-    font-size: 20px;
+    font-size: 26px;
     z-index: 100;
+    flex-direction: row;
+    padding: 1%;
 }
 
 .disp_block{
